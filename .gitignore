@@ -28,6 +28,7 @@ vendor/
 *.tmp
 *.swp
 
+# Ignore the entire data directory
 .data/
 .logs/
 .results/
